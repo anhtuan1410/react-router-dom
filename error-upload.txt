@@ -1,1 +1,2 @@
 Error when upload file
+I choose alternative source, source is .rar, just download and run it
